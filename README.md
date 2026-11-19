@@ -1,7 +1,7 @@
 # 🥷 Payload Obfuscator Toolkit
 
-![Red Team](https://img.shields.io/badge/Red_Team-Evasion-red?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<a href="https://attack.mitre.org/tactics/TA0005/"><img src="https://img.shields.io/badge/Red_Team-Evasion-red?style=for-the-badge" alt="Red Team"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 
 ## 📌 Executive Summary
 During a Red Team engagement, delivering a payload to a target is only half the battle; ensuring the payload executes without being blocked by Antivirus (AV) or Endpoint Detection and Response (EDR) is critical. 
